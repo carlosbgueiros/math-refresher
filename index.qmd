@@ -1,11 +1,18 @@
 ---
-title: "math-refresher"
+title: "Mathematics for Political Science"
+description: |
+  Information for Math Refresher for Political Science at the University of Mannheim
 ---
 
-This is a Quarto website.
+### Course Details
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Times: see [Syllabus](syllabus.html)  
+Location: B 317 Seminarraum (A5, 6 Bauteil B)  
 
-```{r}
-1 + 1
-```
+### Teaching Staff
+
+**Carlos Gueiros** <br>
+Email: [cgueiros@uni-mannheim.de](mailto:cgueiros@uni-mannheim.de)  
+Office Hours: by appointment
+
+
