@@ -40,9 +40,9 @@ Here are some recommended readings. You are not required to read all of those bo
 
     -   DeGroot/Schervish (2011) *A comprehensive standard treatment of probability and statistics for mathematics undergraduate students. Intuitive and (relatively) rigorous at the same time with lots of exercises.*
 
-[^1]: *https://hefferon.net/linearalgebra/*
+[^1]: [https://hefferon.net/linearalgebra/](https://hefferon.net/linearalgebra/)
 
-[^2]: http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf
+[^2]: [http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
 
 ## Additional Resources
 
