@@ -4,6 +4,8 @@ title: "Materials"
 
 ## Slides
 
+## Problem Sets
+
 ## Readings
 
 Here are some recommended readings. You are not required to read all of those books prior to class.
@@ -62,7 +64,7 @@ Video resources:
 Learning Tools:
 
 -   [Wolfram Alpha](https://www.wolframalpha.com/examples/mathematics/calculus-and-analysis)
-    -   Wolfram Alpha, among other things, is an excellent tool for computing, ploting and undestanding limits, derivatives, and integrals and their applications.
+    -   Wolfram Alpha, among other things, is an excellent tool for computing, plotting and understanding limits, derivatives, and integrals and their applications.
 
 ## References
 

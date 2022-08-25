@@ -25,7 +25,7 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "This course is designed to understand mathematical tools useful for the rest of your Master program, especially for the upcoming, mandatory courses in statistics and game theory. The course reviews some mathematical concepts most of you will be familiar with from high school, such as functions, derivatives, integrals, vectors, matrices and distributions. Each day consists of lectures and exercise sessions. The course’s objective is to make students familiar and comfortable with notation, reading mathematical statements, and applying various mathematical techniques."
+    "text": "Downloadable Syllabus PDF"
   },
   {
     "objectID": "syllabus.html#attendance-policy",
@@ -46,7 +46,7 @@
     "href": "syllabus.html#contents",
     "title": "Syllabus",
     "section": "Contents",
-    "text": "Contents\n\nIntroduction\nSet Theory\n\nSets, Binary Relations, Functions\n\nAnalysis I\n\nEquations, Differentiation\n\nAnalysis II\n\nOptimization, Integration, Sequences, Series\n\nLinear Algebra I\n\nLinear Combinations, Vector Spaces, Matrices\n\nLinear Algebra II\n\nDeterminants, Gaussian Elimination\n\nProbability I\n\nCombinatorics, Bayes’ Rule\n\nProbability II\n\nDistributions"
+    "text": "Contents\n\nIntroduction\nSet Theory\n\nSets, Binary Relations, Functions\n\nAnalysis I\n\nEquations, Differentiation\n\nAnalysis II\n\nOptimization, Integration\n\nLinear Algebra I\n\nLinear Combinations, Vector Spaces, Matrices\n\nLinear Algebra II\n\nDeterminants, Gaussian Elimination\n\nProbability I\n\nCombinatorics, Bayes’ Rule\n\nProbability II\n\nDistributions"
   },
   {
     "objectID": "materials.html#readings",
@@ -60,7 +60,7 @@
     "href": "materials.html#additional-resources",
     "title": "Materials",
     "section": "Additional Resources",
-    "text": "Additional Resources\nHere are some recommended non-textbook extra materials for this course and future references on the topics covered.\nText resources:\n\nMath Prefresher for Political Scientists\n\nMath Part I: chapters 1 to 6\n\n\nVideo resources:\n\nEssence of calculus\nEssence of linear algebra\nLinear Algebra by Khan Academy\n\nLearning Tools:\n\nWolfram Alpha\n\nWolfram Alpha, among other things, is an excellent tool for computing, ploting and undestanding limits, derivatives, and integrals and their applications."
+    "text": "Additional Resources\nHere are some recommended non-textbook extra materials for this course and future references on the topics covered.\nText resources:\n\nMath Prefresher for Political Scientists\n\nMath Part I: chapters 1 to 6\n\n\nVideo resources:\n\nEssence of calculus\nEssence of linear algebra\nLinear Algebra by Khan Academy\n\nLearning Tools:\n\nWolfram Alpha\n\nWolfram Alpha, among other things, is an excellent tool for computing, plotting and understanding limits, derivatives, and integrals and their applications."
   },
   {
     "objectID": "materials.html#references",
@@ -75,5 +75,19 @@
     "title": "Mathematics for Political Science",
     "section": "Additional Resources",
     "text": "Additional Resources\nHere are some recommended non-textbook extra materials for this course and future references on the topics covered.\nText resources:\n\nMath Prefresher for Political Scientists\n\nMath Part I: chapters 1 to 6\n\n\nVideo resources:\n\nEssence of calculus\nEssence of linear algebra\nLinear Algebra by Khan Academy\n\nLearning Tools:\n\nWolfram Alpha\n\nWolfram Alpha, among other things, is an excellent tool for computing, ploting and undestanding limits, derivatives, and integrals and their applications."
+  },
+  {
+    "objectID": "materials.html#problem-sets",
+    "href": "materials.html#problem-sets",
+    "title": "Materials",
+    "section": "Problem Sets",
+    "text": "Problem Sets"
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "Course Description",
+    "text": "Course Description\nThis course is designed to understand mathematical tools useful for the rest of your Master program, especially for the upcoming, mandatory courses in statistics and game theory. The course reviews some mathematical concepts most of you will be familiar with from high school, such as functions, derivatives, integrals, vectors, matrices and probability distributions. Each day consists of lectures and exercise sessions. The course’s objective is to make students familiar and comfortable with notation, reading mathematical statements, and applying various mathematical techniques."
   }
 ]
