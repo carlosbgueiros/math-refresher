@@ -1,7 +1,7 @@
 ---
 title: "Mathematics for Political Science"
 description: |
-  Information for Math Refresher for Political Science at the University of Mannheim
+  Math Refresher course for Political Science at the University of Mannheim
 ---
 
 ### Course Details
