@@ -4,6 +4,8 @@ title: "Materials"
 
 ## Slides
 
+-   Lecture slides [PDF](files/math_refresher_22_lecture_slides.pdf)
+
 ## Problem Sets
 
 ## Readings
