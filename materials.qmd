@@ -8,9 +8,13 @@ title: "Materials"
 
 ## Problem Sets
 
-1. Set Theory I [PDF](files/PS_Set Theory I.pdf)
+1. Set Theory I [PDF](files/PS_Set Theory I.pdf) | Solutions [PDF](files/S_Set Theory I.pdf)
 
-2. Set Theory II [PDF](files/PS_Set Theory II.pdf)
+2. Set Theory II [PDF](files/PS_Set Theory II.pdf) | Solutions [PDF](files/S_Set Theory II.pdf)
+
+3. Analysis I [PDF](files/PS_Analysis I.pdf) 
+
+4. Analysis II [PDF](files/PS_Analysis II.pdf) 
 
 ## Readings
 
