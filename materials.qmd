@@ -16,6 +16,10 @@ title: "Materials"
 
 4. Analysis II [PDF](files/PS_Analysis II.pdf) 
 
+5. Linear Algebra I [PDF](files/PS_Algebra I.pdf) 
+
+6. Linear Algebra II [PDF](files/PS_Algebra I.pdf) 
+
 ## Readings
 
 Here are some recommended readings. You are not required to read all of those books prior to class.
