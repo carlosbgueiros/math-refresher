@@ -12,13 +12,17 @@ title: "Materials"
 
 2. Set Theory II [PDF](files/PS_Set Theory II.pdf) | Solutions [PDF](files/S_Set Theory II.pdf)
 
-3. Analysis I [PDF](files/PS_Analysis I.pdf) 
+3. Analysis I [PDF](files/PS_Analysis I.pdf) | Solutions [PDF](files/S_Analysis I.pdf)
 
-4. Analysis II [PDF](files/PS_Analysis II.pdf) 
+4. Analysis II [PDF](files/PS_Analysis II.pdf) | Solutions [PDF](files/S_Analysis II.pdf)
 
-5. Linear Algebra I [PDF](files/PS_Algebra I.pdf) 
+5. Linear Algebra I [PDF](files/PS_Algebra I.pdf) | Solutions [PDF](files/S_Algebra I.pdf)
 
-6. Linear Algebra II [PDF](files/PS_Algebra I.pdf) 
+6. Linear Algebra II [PDF](files/PS_Algebra I.pdf) | Solutions [PDF](files/S_Algebra II.pdf)
+
+7. Probability I [PDF](files/PS_Probability I.pdf) | Solutions [PDF](files/S_Probability I.pdf)
+
+8. Probability II [PDF](files/PS_Probability II.pdf) | Solutions [PDF](files/S_Probability II.pdf)
 
 ## Readings
 
