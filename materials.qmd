@@ -24,6 +24,8 @@ title: "Materials"
 
 8. Probability II [PDF](files/PS_Probability II.pdf) | Solutions [PDF](files/S_Probability II.pdf)
 
+9. Extra Exercise in Class [PDF](files/extra_exercise_nash_eq_cont.pdf) 
+
 ## Readings
 
 Here are some recommended readings. You are not required to read all of those books prior to class.
